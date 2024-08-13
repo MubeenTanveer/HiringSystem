@@ -1,0 +1,16 @@
+#print_table{
+	font-family:monospace;
+}
+#print_table td{
+	padding:0 !important;
+	border:0  !important;
+}
+.bg-secondary{
+	background-color:#858796!important;
+}
+.text-white{
+	color:#fff!important;
+}
+.border-0{
+	border:0!important;
+}
